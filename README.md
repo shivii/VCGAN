@@ -17,6 +17,7 @@ Clone this repo
 ### Datasets
 Download the datasets for training and testing :
 #### Training : 
+IAM Strikethrough Database:
 https://zenodo.org/records/4767095
 #### Testing: 
 Clone the following repository
