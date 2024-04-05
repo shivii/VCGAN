@@ -20,8 +20,8 @@ Download the datasets for training and testing :
 IAM Strikethrough Database:
 https://zenodo.org/records/4767095
 #### Testing: 
-Clone the following repository
-```git clone https://github.com/shivii/Real-Strike-off-dataset.git```
+Real-Strike-off-dataset:
+```https://github.com/shivii/Real-Strike-off-dataset.git```
 ### Train the model
 ```python train.py --dataroot ./dataset/IAM/```
 ## Citation
